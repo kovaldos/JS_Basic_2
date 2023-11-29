@@ -4,16 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fecffe7d-efcb-40de-bb3a-909e30c20f93" name="Changes" comment="HW 2 Done">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fecffe7d-efcb-40de-bb3a-909e30c20f93" name="Changes" comment="HW 3 Done">
+      <change afterPath="$PROJECT_DIR$/HW/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/task_01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/task_01/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/task_02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/task_02/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/task_03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/task_03/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/task_04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/task_04/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson_03" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -24,21 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;lesson__03&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/Yaroslav/Desktop/Learning/JS_Basic_2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "lesson__04",
+    "last_opened_file_path": "/Users/Yaroslav/Desktop/Learning/JS_Basic_2/practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practice" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -51,11 +75,48 @@
       <option name="presentableId" value="Default" />
       <updated>1700726466787</updated>
       <workItem from="1700726468312" duration="3119000" />
-      <workItem from="1700747597592" duration="2552000" />
+      <workItem from="1700747597592" duration="3092000" />
+      <workItem from="1701157223801" duration="8485000" />
     </task>
+    <task id="LOCAL-00001" summary="HW 3 Done">
+      <option name="closed" value="true" />
+      <created>1701156675371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701156675371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW 3 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 3 Done" />
   </component>
 </project>
