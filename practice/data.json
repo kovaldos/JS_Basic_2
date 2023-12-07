@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mango people t-shirt",
+    "img": "img/product-img-1.jpeg",
+    "alt": "Mango people t-shirt",
+    "price": "300",
+    "color": "red",
+    "size": "XL",
+    "quantity": "2"
+  },
+  {
+    "name": "Ellery x m'o capsule",
+    "img": "img/product-img-2.jpeg",
+    "alt": "Ellery x m'o capsule",
+    "price": "52",
+    "color": "red",
+    "size": "XL",
+    "quantity": "1"
+  }
+]
