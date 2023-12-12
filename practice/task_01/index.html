@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Task 1 Custom Video player</title>
+	<script src="https://kit.fontawesome.com/eb47467083.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<section class="section video">
+		<div class="container">
+			<div class="video__player">
+				<p class="video__timer video-timer">
+					<span class="video-timer__current">00:00</span>
+				</p>
+				<video preload="auto" src="https://v3.cdnpk.net/videvo_files/video/free/2014-12/large_watermarked/Raindrops_Videvo_preview.mp4"
+					class="video__video"
+				></video>
+				<input type="range" value="0" class="video-timer__range">
+				<div class="video__controls video-controls">
+					<button class="btn btn--reset video-controls__btn video__play"><i class="fa-solid fa-circle-play"></i></button>
+					<button class="btn btn--reset video-controls__btn video__pause"><i class="fa-solid fa-circle-pause"></i></button>
+				</div>
+				<div class="video__volume video-volume">
+					<input type="range" min="0" max="1" step="0.01" value="50%" class="video-volume__control">
+					<span class="video-volume__value">5</span>
+				</div>
+			</div>
+		</div>
+	</section>
+	<script src="index.js"></script>
+</body>
+</html>
